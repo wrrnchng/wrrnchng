@@ -34,4 +34,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
+### 🔧 Portfolio
+check out my projects here: [Portfolio Repository](https://github.com/wrrnchng/portfolio)
