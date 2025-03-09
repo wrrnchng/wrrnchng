@@ -35,4 +35,6 @@
 </div>
 
 ### 🔧 Portfolio
-check out my projects here: [Portfolio Repository](https://github.com/wrrnchng/portfolio)
+Check out my projects here: [Portfolio](https://wrrnchng.github.io/portfolio/)
+
+Or check my [Portfolio Repository](https://github.com/wrrnchng/portfolio)
