@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Warren Cheng from the Philippines!<br><br>- 🔭 I’m working as a Lead Cadet Engineer in GCash.<br>- 📚 I'm currently honing my skills in machine learning engineering via Python, along with little tidbits of software engineering and DevOps here and there.<br>- ⚡ In my free time I try to learn and involve myself in some programming knowledge to broaden my horizons in coding!</p>
+<p align="left">I'm Warren Cheng from the Philippines!<br><br>- 📚 I'm currently honing my skills in machine learning engineering via Python, along with little tidbits of software engineering and DevOps here and there.<br>- ⚡ In my free time I try to learn and involve myself in some programming knowledge to broaden my horizons in coding!</p>
 
 ###
 
